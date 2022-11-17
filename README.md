@@ -1,4 +1,4 @@
-# <Week 1 Horiseon Challenge>
+# Week 1 Horiseon Challenge
 
 ## Description
 
@@ -6,7 +6,7 @@ week-1-horiseon-challenge is a simple html application that currently contains s
 
 ## Structure
 
-- `/index.html` Entry point for the application, configures the page and static content
+- `index.html` Entry point for the application, configures the page and static content
 - `assets/css` Holds the stylesheet for the webpage to match brand design
 - `assets/images` Contains the images found on the webpage
 
